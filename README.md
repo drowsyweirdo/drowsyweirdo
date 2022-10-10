@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drowsyweirdo&label=Profile%20views&color=0e75b6&style=flat" alt="drowsyweirdo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drowsyweirdo" alt="drowsyweirdo" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analysis and Visualization**
 
 - 📫 How to reach me **harshaelluru123@gmail.com**
