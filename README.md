@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drowsyweirdo&label=Profile%20views&color=0e75b6&style=flat" alt="drowsyweirdo" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis and Visualization**
 
 - 📫 How to reach me **elluruharshavardhan@gmail.com**
 
